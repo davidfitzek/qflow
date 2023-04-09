@@ -49,6 +49,7 @@ We found several very helpful codebases when building this repo, and we sincerel
     + [Alleviating barren plateaus with local cost functions](https://pennylane.ai/qml/demos/tutorial_local_cost_functions.html)
     + [Quantum natural gradient](https://pennylane.ai/qml/demos/tutorial_quantum_natural_gradient.html)
     + [Barren plateaus in quantum neural networks](https://pennylane.ai/qml/demos/tutorial_barren_plateaus.html)
+    + [A brief overview of VQE](https://pennylane.ai/qml/demos/tutorial_vqe.html)
 
 ## Citation
 
